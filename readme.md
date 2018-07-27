@@ -9,7 +9,7 @@ These are self-printable adaptors for use with a Kopf 1900 (previously Cartesian
 - This is a cone that inserts into the 1900 drill to fit other sized drill bits
 - Printed with an Asiga PICO2 UV 39 um resin printer
 
-3. Suction holder
+3. Fiber holder
 - To hold fiberoptic ferules with suction during implantation
 - Needs to be slightly enlarged (slightly frictive fit at present)
 - Printed with an Asiga PICO2 UV 39 um resin printer
